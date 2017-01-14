@@ -1,0 +1,1369 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" id="y8">
+  <head>
+    <title>Y8.com - Free Flash Games - Play Your Favorite Game Online Right Now!</title>
+    <meta content="Y8.com has Free Flash Games, Choose an Online Game and Play NOW" name="description" />
+    <meta content="flash games, free flash games, online games, play game, fun, y8, y8.com" name="keywords" />
+
+    <link href="http://img.y8.com/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+
+    <script type="text/javascript">
+      window.Settings = window.Settings || {};
+    </script>
+
+    <script type="text/javascript">
+      Settings.ga_account = 'UA-18828733-1';
+      Settings.ga_domain = '.y8.com';
+    </script>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="en" />
+<meta charset="utf-8" />
+
+<link href="/feed.rss" rel="alternate" title="y8.com RSS" type="application/rss+xml" />
+
+<link href="http://img.y8.com/assets/y8.com/application-2b43d06283300145a21111e29130a4dc.css" media="screen" rel="stylesheet" type="text/css" />
+<!--[if lte IE 7]><link href="http://img.y8.com/assets/lte_ie7-1f0674f62230009710928d9d39557615.css" media="all" rel="stylesheet" type="text/css" /><![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+
+  window.urls = {};
+    window.allowRedirectionToMobile = true;
+    window.urls.mobileSite = "http://m.y8.com";
+  window.urls.androidGames = '/tags/Android_game';
+
+
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+
+  window.common_cookie_options = {"domain":".y8.com","path":"/"};
+
+  window.current_site = {
+    name: 'y8.com',
+    short_name: 'y8'
+  };
+
+//]]>
+</script>
+
+
+<script src="http://img.y8.com/assets/application-e5eabb8aceb383ee3e8a0ecfdf34f791.js" type="text/javascript"></script>
+
+  </head>
+
+  <body  class="items index games-active" data-action="index" data-controller="Items">
+    <div class="container">
+      <!-- HEADER -->
+      <div id="header">
+  <table width="800" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="154">
+        <a href="/" class="logo_container"><img alt="Play free games" id="logo" src="http://img.y8.com/images/logo_game.gif" /></a>
+      </td>
+      <td><table width="100%" border="0">
+        <tr>
+          <td><h2>Play Free Games at Y8.com. Play an online game now!</h2></td>
+        </tr>
+        <tr>
+          <td class="grey">
+            <table cellpadding="0" cellspacing="0" width="100%">
+              <tr>
+                <td width="38%" align="right" id="y8-b">
+                  <div id="header_search">
+                    <form accept-charset="UTF-8" action="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                      <input class="query" id="q" name="q" size="12" type="text" />
+                      <input class="button" type="submit" value="Search" />
+</form>                  </div>
+                </td>
+                <td width="62%" align="right" id="y8-b">Mini Flash games, Shockwave 3D games, HTML5 games, Android games, Java games. All free to play and download.</td>
+              </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table id="top-nav" width="100%" border="0">
+            <tr>
+              <td width="167px"><a href="/" class="menu_link games">games</a></td>
+              <td width="167px"><a href="/anim" class="menu_link anim">anims</a></td>
+              <td width="85px">
+                  <!-- Facebook like BEGIN -->
+                  <center>
+                    <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FY8com-Games%2F225100494185683&amp;send=false&amp;layout=button_count&amp;width=85&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;locale=en_US" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:21px;" allowTransparency="true"></iframe>
+                  </center>
+                  <!-- Facebook like END -->
+              </td>
+              <td width="91px">
+                  <!-- AddThis Button BEGIN -->
+                  <div class="addthis_default_style">
+                    <a class="addthis_counter addthis_pill_style" addthis:url="http://www.y8.com"></a>
+                  </div>
+                  <!-- AddThis Button END -->
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+        <td width="100" class="login_area">
+          <div class="border">
+            <span id="user_logged_in" style="display:none;">Logged in as:<br />
+              <strong id="username_box"></strong><br />
+              <a href="#" class="js-favorites-link">My games</a>
+              (<span class="js-favorites-count"></span>)
+              <br />
+              <a href="/profile/edit">My Profile</a><br />
+              <a href="/logout">Log out</a><br />
+            </span>
+
+            <span id="user_not_logged_in" style="display:none;">Not logged in.<br />
+              <strong>Anon. User</strong><br />
+              <a href="/login">My games</a><br />
+              <a href="/login">Log in</a><br />
+              <a href="/register">Register</a><br />
+            </span>
+          </div>
+            <div id="locale-selector-dropdown" class='locale-selector-dropdown'>
+    <ul class="locale-chooser-container">
+      
+<li>
+  <a href="http://en.y8.com/" class="en locale-chooser">
+      <span class="flag en">&nbsp;</span>
+    English</a></li>
+
+    </ul>
+    <div class="locales-container-container">
+      <ul class="locales-container">
+        
+<li>
+  <a href="http://en.y8.com/" class="en locale-link">
+      <span class="flag en">&nbsp;</span>
+    English</a></li>
+
+<li>
+  <a href="http://ru.y8.com/" class="ru locale-link">
+      <span class="flag ru">&nbsp;</span>
+    Руcский</a></li>
+
+<li>
+  <a href="http://fr.y8.com/" class="fr locale-link">
+      <span class="flag fr">&nbsp;</span>
+    Français</a></li>
+
+<li>
+  <a href="http://de.y8.com/" class="de locale-link">
+      <span class="flag de">&nbsp;</span>
+    Deutsch</a></li>
+
+<li>
+  <a href="http://it.y8.com/" class="it locale-link">
+      <span class="flag it">&nbsp;</span>
+    Italiano</a></li>
+
+<li>
+  <a href="http://el.y8.com/" class="el locale-link">
+      <span class="flag el">&nbsp;</span>
+    Ελληνικά</a></li>
+
+<li>
+  <a href="http://he.y8.com/" class="he locale-link">
+      <span class="flag he">&nbsp;</span>
+    עברית</a></li>
+
+<li>
+  <a href="http://hi.y8.com/" class="hi locale-link">
+      <span class="flag hi">&nbsp;</span>
+    हिंदी</a></li>
+
+<li>
+  <a href="http://ro.y8.com/" class="ro locale-link">
+      <span class="flag ro">&nbsp;</span>
+    Română</a></li>
+
+<li>
+  <a href="http://es.y8.com/" class="es locale-link">
+      <span class="flag es">&nbsp;</span>
+    Español</a></li>
+
+<li>
+  <a href="http://tl.y8.com/" class="tl locale-link">
+      <span class="flag tl">&nbsp;</span>
+    Tagalog</a></li>
+
+<li>
+  <a href="http://th.y8.com/" class="th locale-link">
+      <span class="flag th">&nbsp;</span>
+    ไทย</a></li>
+
+<li>
+  <a href="http://zh.y8.com/" class="zh locale-link">
+      <span class="flag zh">&nbsp;</span>
+    中文</a></li>
+
+<li>
+  <a href="http://nl.y8.com/" class="nl locale-link">
+      <span class="flag nl">&nbsp;</span>
+    Nederlands</a></li>
+
+<li>
+  <a href="http://vi.y8.com/" class="vi locale-link">
+      <span class="flag vi">&nbsp;</span>
+    Việt</a></li>
+
+<li>
+  <a href="http://tr.y8.com/" class="tr locale-link">
+      <span class="flag tr">&nbsp;</span>
+    Türkçe</a></li>
+
+<li>
+  <a href="http://pt.y8.com/" class="pt locale-link">
+      <span class="flag pt">&nbsp;</span>
+    Português</a></li>
+
+<li>
+  <a href="http://pl.y8.com/" class="pl locale-link">
+      <span class="flag pl">&nbsp;</span>
+    Polski</a></li>
+
+<li>
+  <a href="http://ko.y8.com/" class="ko locale-link">
+      <span class="flag ko">&nbsp;</span>
+    한국어</a></li>
+
+<li>
+  <a href="http://ja.y8.com/" class="ja locale-link">
+      <span class="flag ja">&nbsp;</span>
+    日本語</a></li>
+
+<li>
+  <a href="http://id.y8.com/" class="id locale-link">
+      <span class="flag id">&nbsp;</span>
+    Indonesia</a></li>
+
+<li>
+  <a href="http://ar.y8.com/" class="ar locale-link">
+      <span class="flag ar">&nbsp;</span>
+    العربية</a></li>
+
+      </ul>
+    </div>
+  </div>
+
+        </td>
+      </tr>
+    </table>
+    <table id="sub-nav" border="0" cellspacing="0">
+      <tr>
+
+        <td><a href="/" class="best-all-games current">Best of all games</a></td>
+        <td><a href="/new/games" class="new-games">New Games</a></td>
+        <td><a href="/best" class="best-new-games">Best of new games</a></td>
+        <td><a href="/popular/games" class="popular-games">Most Popular Games</a></td>
+        <td><a href="/games/for_girls" class="girls-games">Games for girls</a></td>
+
+        <td><a href="/tags" class="tags">Categories</a></td>
+      </tr>
+    </table>
+</div>
+
+<div class="ad atf"><script type="text/javascript">
+//<![CDATA[
+google_ad_client = "ca-pub-6129580795478709";
+google_ad_height = 90;
+google_ad_width = 728;
+google_ad_slot = "1352396089";
+
+//]]>
+</script><script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript"></script></div>
+
+
+      
+
+      <div id="flash-notice" class="flash flash-notice"></div>
+<div id="flash-alert" class="flash flash-alert"></div>
+
+
+      <!-- BODY -->
+      <table style="margin:10px auto 0; width:800px;" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td id="sidebar" class="menu sidebar" >
+      <ul class="side" style="text-align: left;">
+        <li class="head">Tags</li>
+
+        <li class="js-favorites-container" style="display: none">
+  <a href="" class="js-favorites-link">Favorites</a> (<span class="js-favorites-count"></span>)
+</li>
+
+
+            <li>
+    <a href="/tags/1_Player" class="tag" data-id="10">1 Player</a>
+      <span>(28844)</span>
+    </li>
+    <li>
+    <a href="/tags/2_Players" class="tag" data-id="5">2 Players</a>
+      <span>(381)</span>
+    </li>
+    <li>
+    <a href="/tags/3D" class="tag" data-id="205">3D</a>
+      <span>(142)</span>
+    </li>
+    <li>
+    <a href="/tags/Action" class="tag" data-id="20">Action</a>
+      <span>(4693)</span>
+    </li>
+    <li>
+    <a href="/tags/action_rpg_hack_and_slash_" class="tag" data-id="322">Action RPG (Hack and Slash)</a>
+      <span>(12)</span>
+    </li>
+    <li>
+    <a href="/tags/Addition" class="tag" data-id="22">Addition</a>
+      <span>(10)</span>
+    </li>
+    <li>
+    <a href="/tags/Adventure" class="tag" data-id="19">Adventure</a>
+      <span>(2191)</span>
+    </li>
+    <li>
+    <a href="/tags/Advergames" class="tag" data-id="246">Advergames</a>
+      <span>(692)</span>
+    </li>
+    <li>
+    <a href="/tags/Aircraft" class="tag" data-id="121">Aircraft</a>
+      <span>(452)</span>
+    </li>
+    <li>
+    <a href="/tags/Al_Qaeda" class="tag" data-id="173">Al Qaeda</a>
+      <span>(4)</span>
+    </li>
+    <li>
+    <a href="/tags/Alien" class="tag" data-id="122">Alien</a>
+      <span>(424)</span>
+    </li>
+    <li>
+    <a href="/tags/Android_game" class="tag" data-id="313">Android game</a>
+      <span>(4396)</span>
+    </li>
+    <li>
+    <a href="/tags/android_only" class="tag" data-id="330">Android only</a>
+      <span>(6)</span>
+    </li>
+    <li>
+    <a href="/tags/Animal" class="tag" data-id="179">Animal</a>
+      <span>(2764)</span>
+    </li>
+    <li>
+    <a href="/tags/Arcade" class="tag" data-id="4">Arcade</a>
+      <span>(1377)</span>
+    </li>
+    <li>
+    <a href="/tags/Army" class="tag" data-id="2">Army</a>
+      <span>(169)</span>
+    </li>
+    <li>
+    <a href="/tags/Asteroids" class="tag" data-id="197">Asteroids</a>
+      <span>(64)</span>
+    </li>
+    <li>
+    <a href="/tags/Baby" class="tag" data-id="299">Baby</a>
+      <span>(52)</span>
+    </li>
+    <li>
+    <a href="/tags/Balancing" class="tag" data-id="145">Balancing</a>
+      <span>(216)</span>
+    </li>
+    <li>
+    <a href="/tags/Ball" class="tag" data-id="68">Ball</a>
+      <span>(1132)</span>
+    </li>
+    <li>
+    <a href="/tags/Balloons" class="tag" data-id="150">Balloons</a>
+      <span>(216)</span>
+    </li>
+    <li>
+    <a href="/tags/Baseball" class="tag" data-id="60">Baseball</a>
+      <span>(72)</span>
+    </li>
+    <li>
+    <a href="/tags/Basketball" class="tag" data-id="106">Basketball</a>
+      <span>(137)</span>
+    </li>
+    <li>
+    <a href="/tags/Beat_Em_Up" class="tag" data-id="71">Beat &#x27;Em Up</a>
+      <span>(405)</span>
+    </li>
+    <li>
+    <a href="/tags/Bicycle" class="tag" data-id="232">Bicycle</a>
+      <span>(123)</span>
+    </li>
+    <li>
+    <a href="/tags/Billiards" class="tag" data-id="59">Billiards</a>
+      <span>(52)</span>
+    </li>
+    <li>
+    <a href="/tags/Blood" class="tag" data-id="49">Blood</a>
+      <span>(453)</span>
+    </li>
+    <li>
+    <a href="/tags/Boat" class="tag" data-id="220">Boat</a>
+      <span>(254)</span>
+    </li>
+    <li>
+    <a href="/tags/Bomb" class="tag" data-id="55">Bomb</a>
+      <span>(447)</span>
+    </li>
+    <li>
+    <a href="/tags/Bomberman" class="tag" data-id="56">Bomberman</a>
+      <span>(56)</span>
+    </li>
+    <li>
+    <a href="/tags/Boxing" class="tag" data-id="128">Boxing</a>
+      <span>(74)</span>
+    </li>
+    <li>
+    <a href="/tags/Boy" class="tag" data-id="261">Boy</a>
+      <span>(382)</span>
+    </li>
+    <li>
+    <a href="/tags/Bubbles" class="tag" data-id="86">Bubbles</a>
+      <span>(288)</span>
+    </li>
+    <li>
+    <a href="/tags/Bumper_Cars" class="tag" data-id="164">Bumper Cars</a>
+      <span>(9)</span>
+    </li>
+    <li>
+    <a href="/tags/Bunny" class="tag" data-id="253">Bunny</a>
+      <span>(154)</span>
+    </li>
+    <li>
+    <a href="/tags/Cake" class="tag" data-id="305">Cake</a>
+      <span>(50)</span>
+    </li>
+    <li>
+    <a href="/tags/Car" class="tag" data-id="126">Car</a>
+      <span>(1033)</span>
+    </li>
+    <li>
+    <a href="/tags/Cat" class="tag" data-id="215">Cat</a>
+      <span>(332)</span>
+    </li>
+    <li>
+    <a href="/tags/Chicken" class="tag" data-id="262">Chicken</a>
+      <span>(141)</span>
+    </li>
+    <li>
+    <a href="/tags/Circus" class="tag" data-id="247">Circus</a>
+      <span>(15)</span>
+    </li>
+    <li>
+    <a href="/tags/Collecting_Games" class="tag" data-id="155">Collecting Games</a>
+      <span>(2834)</span>
+    </li>
+    <li>
+    <a href="/tags/Coloring" class="tag" data-id="278">Coloring</a>
+      <span>(149)</span>
+    </li>
+    <li>
+    <a href="/tags/Cooking" class="tag" data-id="282">Cooking</a>
+      <span>(756)</span>
+    </li>
+    <li>
+    <a href="/tags/Dancing" class="tag" data-id="211">Dancing</a>
+      <span>(100)</span>
+    </li>
+    <li>
+    <a href="/tags/Decorate" class="tag" data-id="266">Decorate</a>
+      <span>(618)</span>
+    </li>
+    <li>
+    <a href="/tags/Detective_Game" class="tag" data-id="135">Detective Game</a>
+      <span>(69)</span>
+    </li>
+    <li>
+    <a href="/tags/Dog" class="tag" data-id="81">Dog</a>
+      <span>(433)</span>
+    </li>
+    <li>
+    <a href="/tags/Dragon" class="tag" data-id="43">Dragon</a>
+      <span>(104)</span>
+    </li>
+    <li>
+    <a href="/tags/Drawing" class="tag" data-id="129">Drawing</a>
+      <span>(105)</span>
+    </li>
+    <li>
+    <a href="/tags/Dress_Up" class="tag" data-id="148">Dress Up</a>
+      <span>(3413)</span>
+    </li>
+    <li>
+    <a href="/tags/Driving" class="tag" data-id="16">Driving</a>
+      <span>(1581)</span>
+    </li>
+    <li>
+    <a href="/tags/Drunk" class="tag" data-id="90">Drunk</a>
+      <span>(8)</span>
+    </li>
+    <li>
+    <a href="/tags/Farm" class="tag" data-id="237">Farm</a>
+      <span>(70)</span>
+    </li>
+    <li>
+    <a href="/tags/Fighting" class="tag" data-id="6">Fighting</a>
+      <span>(1935)</span>
+    </li>
+    <li>
+    <a href="/tags/First_Person_Shooter" class="tag" data-id="182">First Person Shooter</a>
+      <span>(293)</span>
+    </li>
+    <li>
+    <a href="/tags/Fishing" class="tag" data-id="125">Fishing</a>
+      <span>(122)</span>
+    </li>
+    <li>
+    <a href="/tags/Flying" class="tag" data-id="44">Flying</a>
+      <span>(1082)</span>
+    </li>
+    <li>
+    <a href="/tags/Food" class="tag" data-id="238">Food</a>
+      <span>(1818)</span>
+    </li>
+    <li>
+    <a href="/tags/Food_Serving" class="tag" data-id="285">Food Serving</a>
+      <span>(553)</span>
+    </li>
+    <li>
+    <a href="/tags/Football" class="tag" data-id="161">Football</a>
+      <span>(228)</span>
+    </li>
+    <li>
+    <a href="/tags/Funny" class="tag" data-id="175">Funny</a>
+      <span>(477)</span>
+    </li>
+    <li>
+    <a href="/tags/Ghost" class="tag" data-id="92">Ghost</a>
+      <span>(121)</span>
+    </li>
+    <li>
+    <a href="/tags/Girl" class="tag" data-id="114">Girl</a>
+      <span>(5658)</span>
+    </li>
+    <li>
+    <a href="/tags/Girls" class="tag" data-id="319">Girls</a>
+      <span>(5463)</span>
+    </li>
+    <li>
+    <a href="/tags/Guns" class="tag" data-id="230">Guns</a>
+      <span>(397)</span>
+    </li>
+    <li>
+    <a href="/tags/Hidden_objects" class="tag" data-id="317">Hidden objects</a>
+      <span>(462)</span>
+    </li>
+    <li>
+    <a href="/tags/House" class="tag" data-id="268">House</a>
+      <span>(54)</span>
+    </li>
+    <li>
+    <a href="/tags/Killing" class="tag" data-id="102">Killing</a>
+      <span>(532)</span>
+    </li>
+    <li>
+    <a href="/tags/kissing_games" class="tag" data-id="329">Kissing games</a>
+      <span>(80)</span>
+    </li>
+    <li>
+    <a href="/tags/Kung_Fu" class="tag" data-id="117">Kung Fu</a>
+      <span>(39)</span>
+    </li>
+    <li>
+    <a href="/tags/Love" class="tag" data-id="222">Love</a>
+      <span>(575)</span>
+    </li>
+    <li>
+    <a href="/tags/Magic" class="tag" data-id="203">Magic</a>
+      <span>(133)</span>
+    </li>
+    <li>
+    <a href="/tags/makeover_make-up" class="tag" data-id="327">Makeover / Make-up</a>
+      <span>(116)</span>
+    </li>
+    <li>
+    <a href="/tags/Mario" class="tag" data-id="8">Mario</a>
+      <span>(295)</span>
+    </li>
+    <li>
+    <a href="/tags/Motorcycle" class="tag" data-id="124">Motorcycle</a>
+      <span>(451)</span>
+    </li>
+    <li>
+    <a href="/tags/Ninja" class="tag" data-id="101">Ninja</a>
+      <span>(205)</span>
+    </li>
+    <li>
+    <a href="/tags/Obstacle" class="tag" data-id="137">Obstacle</a>
+      <span>(3152)</span>
+    </li>
+    <li>
+    <a href="/tags/Parking" class="tag" data-id="142">Parking</a>
+      <span>(181)</span>
+    </li>
+    <li>
+    <a href="/tags/Princess" class="tag" data-id="302">Princess</a>
+      <span>(296)</span>
+    </li>
+    <li>
+    <a href="/tags/Purchase_Equipment_Upgrades" class="tag" data-id="66">Purchase Equipment Upgrades</a>
+      <span>(1483)</span>
+    </li>
+    <li>
+    <a href="/tags/Puzzle" class="tag" data-id="1">Puzzle</a>
+      <span>(5645)</span>
+    </li>
+    <li>
+    <a href="/tags/Quad" class="tag" data-id="163">Quad</a>
+      <span>(43)</span>
+    </li>
+    <li>
+    <a href="/tags/Racing" class="tag" data-id="105">Racing</a>
+      <span>(548)</span>
+    </li>
+    <li>
+    <a href="/tags/restaurant" class="tag" data-id="328">Restaurant</a>
+      <span>(10)</span>
+    </li>
+    <li>
+    <a href="/tags/Robots" class="tag" data-id="3">Robots</a>
+      <span>(486)</span>
+    </li>
+    <li>
+    <a href="/tags/Romance" class="tag" data-id="258">Romance</a>
+      <span>(51)</span>
+    </li>
+    <li>
+    <a href="/tags/Running" class="tag" data-id="233">Running</a>
+      <span>(229)</span>
+    </li>
+    <li>
+    <a href="/tags/Scary" class="tag" data-id="221">Scary</a>
+      <span>(70)</span>
+    </li>
+    <li>
+    <a href="/tags/School" class="tag" data-id="236">School</a>
+      <span>(56)</span>
+    </li>
+    <li>
+    <a href="/tags/Shoot_Em_Up" class="tag" data-id="35">Shoot &#x27;Em Up</a>
+      <span>(2417)</span>
+    </li>
+    <li>
+    <a href="/tags/Shooting" class="tag" data-id="14">Shooting</a>
+      <span>(2872)</span>
+    </li>
+    <li>
+    <a href="/tags/Skateboard" class="tag" data-id="31">Skateboard</a>
+      <span>(102)</span>
+    </li>
+    <li>
+    <a href="/tags/Sniper" class="tag" data-id="100">Sniper</a>
+      <span>(141)</span>
+    </li>
+    <li>
+    <a href="/tags/Soccer" class="tag" data-id="160">Soccer</a>
+      <span>(252)</span>
+    </li>
+    <li>
+    <a href="/tags/Sports" class="tag" data-id="21">Sports</a>
+      <span>(1093)</span>
+    </li>
+    <li>
+    <a href="/tags/Stick" class="tag" data-id="32">Stick</a>
+      <span>(299)</span>
+    </li>
+    <li>
+    <a href="/tags/Street" class="tag" data-id="70">Street</a>
+      <span>(207)</span>
+    </li>
+    <li>
+    <a href="/tags/Street_Fighting" class="tag" data-id="69">Street Fighting</a>
+      <span>(32)</span>
+    </li>
+    <li>
+    <a href="/tags/Swimming" class="tag" data-id="185">Swimming</a>
+      <span>(77)</span>
+    </li>
+    <li>
+    <a href="/tags/Train" class="tag" data-id="141">Train</a>
+      <span>(50)</span>
+    </li>
+    <li>
+    <a href="/tags/Treasure" class="tag" data-id="284">Treasure</a>
+      <span>(101)</span>
+    </li>
+    <li>
+    <a href="/tags/Truck" class="tag" data-id="201">Truck</a>
+      <span>(434)</span>
+    </li>
+    <li>
+    <a href="/tags/Violence" class="tag" data-id="231">Violence</a>
+      <span>(190)</span>
+    </li>
+    <li>
+    <a href="/tags/War" class="tag" data-id="26">War</a>
+      <span>(287)</span>
+    </li>
+    <li>
+    <a href="/tags/Warcraft" class="tag" data-id="186">Warcraft</a>
+      <span>(2)</span>
+    </li>
+    <li>
+    <a href="/tags/Water" class="tag" data-id="97">Water</a>
+      <span>(524)</span>
+    </li>
+    <li>
+    <a href="/tags/Worms" class="tag" data-id="158">Worms</a>
+      <span>(38)</span>
+    </li>
+    <li>
+    <a href="/tags/Wrestling" class="tag" data-id="326">Wrestling</a>
+      <span>(5)</span>
+    </li>
+    <li>
+    <a href="/tags/Zombies" class="tag" data-id="84">Zombies</a>
+      <span>(491)</span>
+    </li>
+
+
+        <li class="foot"><a href="/tags">&gt;&gt; More Tags</a></li>
+      </ul>
+
+      <ul class="side" style="text-align: left;">
+  <li class="head">Top searches</li>
+  <li><a href="/search?q=baby">baby games</a></li>
+  <li><a href="/search?q=super+mario">super mario games</a></li>
+  <li><a href="/search?q=decorate">decorate games</a></li>
+  <li><a href="/search?q=plazma+burst">plazma burst games</a></li>
+  <li><a href="/search?q=pacman">pacman games</a></li>
+  <li><a href="/search?q=pool">pool games</a></li>
+  <li><a href="/search?q=cook">cook games</a></li>
+  <li><a href="/search?q=snail+bob+2">snail bob 2 games</a></li>
+  <li><a href="/search?q=pokemon">pokemon games</a></li>
+  <li><a href="/search?q=stick+war">stick war games</a></li>
+  <li><a href="/search?q=sift+heads">sift heads games</a></li>
+  <li><a href="/search?q=puzzle">puzzle games</a></li>
+  <li><a href="/search?q=funny">funny games</a></li>
+  <li><a href="/search?q=kissing">kissing games</a></li>
+  <li><a href="/search?q=bomb+it">bomb it games</a></li>
+  <li><a href="/search?q=my+new+room">my new room games</a></li>
+  <li><a href="/search?q=hot+dog">hot dog games</a></li>
+  <li><a href="/search?q=ice+cream">ice cream games</a></li>
+  <li><a href="/search?q=minecraft">minecraft games</a></li>
+  <li><a href="/search?q=whack+your+boss">whack your boss games</a></li>
+</ul>
+
+    </td>
+    <td class="width12"></td>
+    <td valign="top" class="menu">
+      
+
+  
+      <ul class="navigator"><li class="head">100 pages :  1 <a href="/?page=2">2</a> <a href="/?page=3">3</a> <a href="/?page=4">4</a> <a href="/?page=5">5</a> <a href="/?page=6">6</a> <a href="/?page=7">7</a> <a href="/?page=8">8</a> <a href="/?page=9">9</a> <a href="/?page=10">10</a> <a href="/?page=11">11</a> <a href="/?page=12">12</a> <a href="/?page=13">13</a> <a href="/?page=2">&gt;</a> <a href="/?page=100">&gt;&gt;</a></li></ul><div class="clear"></div>
+
+  <div class="clear"></div>
+
+  
+  <div class="item thumb" id="item_746">
+    <a href="/games/phosphor_beta" data-url="http://img.y8.com/contents/original/missing.png" title="Phosphor Beta">
+
+      <img alt="Phosphore" src="http://img.y8.com/system/screenshots/746/original/phosphore.jpg" />
+      <div class="item-name one-liner">
+        Phosphor Beta
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_30367">
+    <a href="/games/snail_bob_2" data-url="http://media.y8.com/system/contents/30367/original/SnailBob2.swf?1308531368" title="Snail Bob 2">
+
+      <img alt="Snail%20bob%202y8s" src="http://img.y8.com/system/screenshots/30367/original/Snail%20Bob%202y8s.jpg?1308531367" />
+      <div class="item-name one-liner">
+        Snail Bob 2
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_18116">
+    <a href="/games/bloons_tower_defense_4" data-url="http://media.y8.com/system/contents/18116/original/bloonstd4.swf" title="Bloons Tower Defense 4">
+
+      <img alt="Bloonstd4180" src="http://img.y8.com/system/screenshots/18116/original/bloonstd4180.jpg" />
+      <div class="item-name one-liner">
+        Bloons Tower Defense 4
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_54288">
+    <a href="/games/candy_crush" data-url="http://media.y8.com/system/contents/54288/original/candy-crush.swf?1361832848" title="Candy Crush">
+
+      <img alt="Candy_crush-y8" src="http://img.y8.com/system/screenshots/54288/original/Candy_Crush-y8.jpg?1361843114" />
+      <div class="item-name one-liner">
+        Candy Crush
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_52408">
+    <a href="/games/phineas_ferb_transportinators_of_doooom" data-url="http://media.y8.com/system/contents/52408/original/transportinators-of-doooom.unity3d?1358264937" title="Phineas &amp; Ferb: Transportinators of Doooom">
+
+      <img alt="Phineas___ferb-_transportinators_of_doooom-y8" src="http://img.y8.com/system/screenshots/52408/original/Phineas___Ferb-_Transportinators_of_Doooom-y8.jpg?1358476499" />
+      <div class="item-name one-liner">
+        Phineas &amp; Ferb: Transportinators of Doooom
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_31414">
+    <a href="/games/papa_s_freezeria" data-url="http://media.y8.com/system/contents/31414/original/Papas%20Freezeria_July_27th_2011.swf?1311848306" title="Papa&#x27;s Freezeria">
+
+      <img alt="Papas-freezeria-y8" src="http://img.y8.com/system/screenshots/31414/original/papas-freezeria-y8.gif?1317831199" />
+      <div class="item-name one-liner">
+        Papa&#x27;s Freezeria
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_48804">
+    <a href="/games/american_racing" data-url="http://media.y8.com/system/contents/48804/original/AmericanRacing.swf?1350640430" title="American Racing">
+
+      <img alt="American_racing-y8" src="http://img.y8.com/system/screenshots/48804/original/American_Racing-y8.gif?1351057459" />
+      <div class="item-name one-liner">
+        American Racing
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_5515">
+    <a href="/games/age_of_war" data-url="http://media.y8.com/system/contents/5515/original/Age-of-War-november-1st-2007.swf" title="Age of War">
+
+      <img alt="Ageofwar" src="http://img.y8.com/system/screenshots/5515/original/ageofwar.jpg" />
+      <div class="item-name one-liner">
+        Age of War
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_19883">
+    <a href="/games/penguin_diner_2" data-url="http://media.y8.com/system/contents/19883/original/Penguin_Diner_2.swf" title="Penguin Diner 2">
+
+      <img alt="Penguin_diner_2" src="http://img.y8.com/system/screenshots/19883/original/Penguin_Diner_2.gif" />
+      <div class="item-name one-liner">
+        Penguin Diner 2
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_52371">
+    <a href="/games/red_crucible_2" data-url="http://media.y8.com/system/contents/52371/original/red-crucible-2.unity3d?1358172921" title="Red Crucible 2">
+
+      <img alt="Red_crucible_2-y8" src="http://img.y8.com/system/screenshots/52371/original/Red_Crucible_2-y8.gif?1358752299" />
+      <div class="item-name one-liner">
+        Red Crucible 2
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_33131">
+    <a href="/games/bejeweled_2_official" data-url="http://img.y8.com/contents/original/missing.png" title="Bejeweled 2 Official">
+
+      <img alt="001" src="http://img.y8.com/system/screenshots/33131/original/001.jpg?1318087347" />
+      <div class="item-name one-liner">
+        Bejeweled 2 Official
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_21623">
+    <a href="/games/world_cup_penalty_2010" data-url="http://media.y8.com/system/contents/21623/original/World_Cup_Penalty_2010.swf" title="World Cup Penalty 2010">
+
+      <img alt="World_cup_penalty_2010" src="http://img.y8.com/system/screenshots/21623/original/World_Cup_Penalty_2010.jpg" />
+      <div class="item-name one-liner">
+        World Cup Penalty 2010
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_1317">
+    <a href="/games/interactive_buddy" data-url="http://media.y8.com/system/contents/1317/original/1659_1.swf" title="Interactive Buddy">
+
+      <img alt="Buddy" src="http://img.y8.com/system/screenshots/1317/original/buddy.gif" />
+      <div class="item-name one-liner">
+        Interactive Buddy
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_9429">
+    <a href="/games/governor_of_poker" data-url="http://media.y8.com/system/contents/9429/original/Governor_of_Poker.swf" title="Governor of Poker">
+
+      <img alt="Governor_of_poker180" src="http://img.y8.com/system/screenshots/9429/original/Governor_of_Poker180.gif" />
+      <div class="item-name one-liner">
+        Governor of Poker
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_39813">
+    <a href="/games/nan_zuma" data-url="http://media.y8.com/system/contents/39813/original/Nan%20Zuma.swf?1331288750" title="Nan Zuma">
+
+      <img alt="Nan%20zuma-y8" src="http://img.y8.com/system/screenshots/39813/original/Nan%20Zuma-y8.jpg?1331288750" />
+      <div class="item-name one-liner">
+        Nan Zuma
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_39692">
+    <a href="/games/papa_s_pancakeria" data-url="http://media.y8.com/system/contents/39692/original/papa&#x27;s-pancakeria.swf?1331085230" title="Papa&#x27;s PanCakeria">
+
+      <img alt="Papa&#x27;s%20pancakeria-y8" src="http://img.y8.com/system/screenshots/39692/original/Papa&#x27;s%20PanCakeria-y8.jpg?1331085230" />
+      <div class="item-name one-liner">
+        Papa&#x27;s PanCakeria
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_42094">
+    <a href="/games/heart_surgery" data-url="http://media.y8.com/system/contents/42094/original/heart_surgery.swf?1335501003" title="Heart Surgery">
+
+      <img alt="Heart%20surgery-y8" src="http://img.y8.com/system/screenshots/42094/original/Heart%20Surgery-y8.jpg?1335501003" />
+      <div class="item-name one-liner">
+        Heart Surgery
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_6804">
+    <a href="/games/penguin_diner" data-url="http://media.y8.com/system/contents/6804/original/penguin-diner-y8.swf?1320879199" title="Penguin Diner">
+
+      <img alt="Penguin-diner180" src="http://img.y8.com/system/screenshots/6804/original/penguin-diner180.gif" />
+      <div class="item-name one-liner">
+        Penguin Diner
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_35490">
+    <a href="/games/santa_s_footy_challenge" data-url="http://media.y8.com/system/contents/35490/original/santafooty.swf?1323050278" title="Santa&#x27;s Footy Challenge">
+
+      <img alt="Y8" src="http://img.y8.com/system/screenshots/35490/original/y8.jpg?1323050278" />
+      <div class="item-name one-liner">
+        Santa&#x27;s Footy Challenge
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_12182">
+    <a href="/games/fashion_designer_new_york" data-url="http://media.y8.com/system/contents/12182/original/fashiondesignerny.swf" title="Fashion Designer New York">
+
+      <img alt="8" src="http://img.y8.com/system/screenshots/12182/original/8.png?1359365032" />
+      <div class="item-name one-liner">
+        Fashion Designer New York
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_51075">
+    <a href="/games/earn_to_die_v1" data-url="http://media.y8.com/system/contents/51075/original/earntodie.swf?1355331063" title="Earn To Die V1">
+
+      <img alt="3" src="http://img.y8.com/system/screenshots/51075/original/3.png?1355391962" />
+      <div class="item-name one-liner">
+        Earn To Die V1
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_6101">
+    <a href="/games/hot_dog_bush" data-url="http://media.y8.com/system/contents/6101/original/hot-dog-bush-y8.swf?1320879242" title="Hot Dog Bush">
+
+      <img alt="Hot-dog-bush-y8" src="http://img.y8.com/system/screenshots/6101/original/hot-dog-bush-y8.gif?1318517658" />
+      <div class="item-name one-liner">
+        Hot Dog Bush
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_20876">
+    <a href="/games/good_game_farmer" data-url="http://img.y8.com/contents/original/missing.png" title="Good Game Farmer">
+
+      <img alt="Good_game_farmer" src="http://img.y8.com/system/screenshots/20876/original/Good_Game_Farmer.gif" />
+      <div class="item-name one-liner">
+        Good Game Farmer
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_21384">
+    <a href="/games/farm_frenzy_3" data-url="http://media.y8.com/system/contents/21384/original/Farm_Frenzy_3.swf" title="Farm Frenzy 3">
+
+      <img alt="Farm_frenzy_3" src="http://img.y8.com/system/screenshots/21384/original/Farm_Frenzy_3.gif" />
+      <div class="item-name one-liner">
+        Farm Frenzy 3
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_35397">
+    <a href="/games/bomb_it_4" data-url="http://media.y8.com/system/contents/35397/original/bomb_it_4.swf?1322901948" title="Bomb It 4">
+
+      <img alt="Bomb%20it%204-y8" src="http://img.y8.com/system/screenshots/35397/original/Bomb%20It%204-y8.jpg?1322901948" />
+      <div class="item-name one-liner">
+        Bomb It 4
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_31433">
+    <a href="/games/kingdom_rush" data-url="http://media.y8.com/system/contents/31433/original/kingdom-rush-y8.swf?1339683347" title="Kingdom Rush *fixed*">
+
+      <img alt="Kingdomrush" src="http://img.y8.com/system/screenshots/31433/original/kingdomrush.jpg?1311920121" />
+      <div class="item-name one-liner">
+        Kingdom Rush *fixed*
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_946">
+    <a href="/games/electricman_2_hs" data-url="http://media.y8.com/system/contents/946/original/electricman2.swf" title="Electricman 2 HS">
+
+      <img alt="Electricman2" src="http://img.y8.com/system/screenshots/946/original/electricman2.jpg" />
+      <div class="item-name one-liner">
+        Electricman 2 HS
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_2748">
+    <a href="/games/avatar_arena" data-url="http://media.y8.com/system/contents/2748/original/avatar_arena.swf" title="Avatar Arena">
+
+      <img alt="Thumb_108" src="http://img.y8.com/system/screenshots/2748/original/thumb_108.jpg" />
+      <div class="item-name one-liner">
+        Avatar Arena
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_32994">
+    <a href="/games/the_forest_temple_3" data-url="http://media.y8.com/system/contents/32994/original/fireboy-and-watergirl-the-forest-temple-3.swf?1317751539" title="Fireboy &amp; Watergirl ep. 3">
+
+      <img alt="001" src="http://img.y8.com/system/screenshots/32994/original/001.gif?1317751539" />
+      <div class="item-name one-liner">
+        Fireboy &amp; Watergirl ep. 3
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_4261">
+    <a href="/games/bartender_the_right_mix" data-url="http://media.y8.com/system/contents/4261/original/bartender.swf" title="Bartender: The Right Mix">
+
+      <img alt="Y8bartender1" src="http://img.y8.com/system/screenshots/4261/original/y8bartender1.jpg" />
+      <div class="item-name one-liner">
+        Bartender: The Right Mix
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_12107">
+    <a href="/games/personal_shopper_2" data-url="http://media.y8.com/system/contents/12107/original/personal_shopper_2.swf" title="Personal Shopper 2">
+
+      <img alt="2" src="http://img.y8.com/system/screenshots/12107/original/2.png?1359107323" />
+      <div class="item-name one-liner">
+        Personal Shopper 2
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_31274">
+    <a href="/games/super_drift_3d" data-url="http://media.y8.com/system/contents/31274/original/super-drift-3d.swf?1311557933" title="Super Drift 3D">
+
+      <img alt="Super-drift-3dy8s" src="http://img.y8.com/system/screenshots/31274/original/super-drift-3dy8s.jpg?1311567382" />
+      <div class="item-name one-liner">
+        Super Drift 3D
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_9423">
+    <a href="/games/diner_dash_hometown_hero" data-url="http://media.y8.com/system/contents/9423/original/dinerdashv27.swf" title="Diner Dash: Hometown Hero">
+
+      <img alt="Dinerdashv27" src="http://img.y8.com/system/screenshots/9423/original/dinerdashv27.jpg" />
+      <div class="item-name one-liner">
+        Diner Dash: Hometown Hero
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_31224">
+    <a href="/games/superfighters" data-url="http://media.y8.com/system/contents/31224/original/Superfighters_July_21st_2011.swf?1311404529" title="Superfighters">
+
+      <img alt="Superfighters_july_21st_2011180" src="http://img.y8.com/system/screenshots/31224/original/Superfighters_July_21st_2011180.gif?1311404529" />
+      <div class="item-name one-liner">
+        Superfighters
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_52521">
+    <a href="/games/lose_the_heat_3" data-url="http://media.y8.com/system/contents/52521/original/lose-the-heat-3.unity3d?1358440169" title="Lose the Heat 3">
+
+      <img alt="Lose_the_heat_3-y8" src="http://img.y8.com/system/screenshots/52521/original/Lose_the_Heat_3-y8.jpg?1358690466" />
+      <div class="item-name one-liner">
+        Lose the Heat 3
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_33152">
+    <a href="/games/super_smash_flash_2" data-url="http://img.y8.com/contents/original/missing.png" title="Super Smash Flash 2">
+
+      <img alt="Supersmashflash2-y8" src="http://img.y8.com/system/screenshots/33152/original/SuperSmashFlash2-y8.jpg?1318263653" />
+      <div class="item-name one-liner">
+        Super Smash Flash 2
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_18746">
+    <a href="/games/kawairun" data-url="http://media.y8.com/system/contents/18746/original/Kawairun.swf" title="Kawairun">
+
+      <img alt="6ad9196fb0ebc3d8ac361009782d03d289705b08" src="http://img.y8.com/system/screenshots/18746/original/6ad9196fb0ebc3d8ac361009782d03d289705b08.gif" />
+      <div class="item-name one-liner">
+        Kawairun
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_7141">
+    <a href="/games/family_restaurant" data-url="http://media.y8.com/system/contents/7141/original/family_restaurant.swf" title="Family Restaurant">
+
+      <img alt="Y8family_restaurant" src="http://img.y8.com/system/screenshots/7141/original/y8family_restaurant.jpg" />
+      <div class="item-name one-liner">
+        Family Restaurant
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_42545">
+    <a href="/games/apocalypse_city_sons_of_the_fallen_world" data-url="http://img.y8.com/contents/original/missing.png" title="Apocalypse City: Sons of the Fallen World">
+
+      <img alt="Apocalypse_city-y8" src="http://img.y8.com/system/screenshots/42545/original/Apocalypse_City-y8.gif?1343557352" />
+      <div class="item-name one-liner">
+        Apocalypse City: Sons of the Fallen World
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_17905">
+    <a href="/games/stick_figure_badminton" data-url="http://media.y8.com/system/contents/17905/original/stickfigurebadminton.swf" title="Stick Figure Badminton">
+
+      <img alt="Stickfigurebadminton" src="http://img.y8.com/system/screenshots/17905/original/stickfigurebadminton.jpg" />
+      <div class="item-name one-liner">
+        Stick Figure Badminton
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_24960">
+    <a href="/games/the_king_of_fighters_vs_dnf" data-url="http://media.y8.com/system/contents/24960/original/The_King_of_Fighters_vs_DNF_November_29th_2010-y8-fix.swf?1320944757" title="The King of Fighters vs DNF">
+
+      <img alt="The_king_of_fighters_vs_dnf" src="http://img.y8.com/system/screenshots/24960/original/The_King_of_Fighters_vs_DNF.jpg" />
+      <div class="item-name one-liner">
+        The King of Fighters vs DNF
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_650">
+    <a href="/games/street_sesh" data-url="http://media.y8.com/system/contents/650/original/streetsesh.dcr" title="Street Sesh">
+
+      <img alt="Streetsesh" src="http://img.y8.com/system/screenshots/650/original/streetsesh.jpg" />
+      <div class="item-name one-liner">
+        Street Sesh
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_38">
+    <a href="/games/ray_part_2" data-url="http://media.y8.com/system/contents/38/original/ray2.swf" title="Ray Part 2">
+
+      <img alt="Ray2" src="http://img.y8.com/system/screenshots/38/original/ray2.jpg" />
+      <div class="item-name one-liner">
+        Ray Part 2
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_174">
+    <a href="/games/billiards" data-url="http://media.y8.com/system/contents/174/original/billiards_1.swf" title="Billiards">
+
+      <img alt="0076_1" src="http://img.y8.com/system/screenshots/174/original/0076_1.jpg" />
+      <div class="item-name one-liner">
+        Billiards
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_49264">
+    <a href="/games/race_game_nitro" data-url="http://media.y8.com/system/contents/49264/original/monsterrace3d.swf?1351696329" title="Race game Nitro">
+
+      <img alt="6" src="http://img.y8.com/system/screenshots/49264/original/6.png?1359364053" />
+      <div class="item-name one-liner">
+        Race game Nitro
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_33187">
+    <a href="/games/snowboarding_dx" data-url="http://media.y8.com/system/contents/33187/original/snowboardingDX_Y8.swf?1318299299" title="Snowboarding DX">
+
+      <img alt="17" src="http://img.y8.com/system/screenshots/33187/original/17.jpg?1348139194" />
+      <div class="item-name one-liner">
+        Snowboarding DX
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_1680">
+    <a href="/games/pc_breakdown" data-url="http://media.y8.com/system/contents/1680/original/pc-breakdown.swf" title="PC Breakdown">
+
+      <img alt="Pc-breakdown" src="http://img.y8.com/system/screenshots/1680/original/pc-breakdown.gif" />
+      <div class="item-name one-liner">
+        PC Breakdown
+      </div>
+</a>
+</div>
+  <div class="item thumb" id="item_22770">
+    <a href="/games/devilish_stylist" data-url="http://media.y8.com/system/contents/22770/original/Devilish_Stylist.swf" title="Devilish Stylist">
+
+      <img alt="Devilish_stylist" src="http://img.y8.com/system/screenshots/22770/original/Devilish_Stylist.gif" />
+      <div class="item-name one-liner">
+        Devilish Stylist
+      </div>
+</a>
+</div>
+
+  <div class="clear"></div>
+  <br />
+  
+      <ul class="navigator"><li class="head">100 pages :  1 <a href="/?page=2">2</a> <a href="/?page=3">3</a> <a href="/?page=4">4</a> <a href="/?page=5">5</a> <a href="/?page=6">6</a> <a href="/?page=7">7</a> <a href="/?page=8">8</a> <a href="/?page=9">9</a> <a href="/?page=10">10</a> <a href="/?page=11">11</a> <a href="/?page=12">12</a> <a href="/?page=13">13</a> <a href="/?page=2">&gt;</a> <a href="/?page=100">&gt;&gt;</a></li></ul><div class="clear"></div>
+
+  <br />
+
+
+    </td>
+  </tr>
+</table>
+
+<div style="clear:both"></div>
+
+
+      <!-- FOOTER -->
+      <div class="ad footer"><script type="text/javascript">
+//<![CDATA[
+google_ad_client = "ca-pub-6129580795478709";
+google_ad_height = 90;
+google_ad_width = 728;
+google_ad_slot = "8626738241";
+
+//]]>
+</script><script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript"></script></div>
+
+<div id="footer">
+  If you have questions or other inquiries, please use our  <a href="/contact/new">email form</a></a>
+
+  <br />
+  <div id="bottom_nav">
+    <a href="http://static.y8.com/upload">Submit a game or animation</a>
+    <a href="http://feeds.feedburner.com/y8_com">All-site RSS</a>
+    <a href="/terms">Terms of Use</a>
+    <a href="/privacy">Privacy Policy</a>
+  </div>
+    <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FY8com-Games%2F225100494185683&amp;width=250&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:62px;" allowTransparency="true"></iframe>
+
+    <a href="https://twitter.com/y8_com" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @y8_com</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  <span class="margin-left-50">
+    <!--[if IE]>
+  <style type="text/css">
+    .id-net-link, .id-net-link .id-net-link-label {
+      border-radius: 0;
+    }
+  </style>
+<![endif]-->
+<script src="https://www.id.net/api/popup.js" type="text/javascript"></script><a href="/auth/idnet" class="id-net-link js-idnet-link connect small" id="id-net-link"><img alt="Id.net-logo-small" src="http://img.y8.com/images/id.net-logo-small.png" /><span class="id-net-link-label">Connect with id.net</span></a>
+  </span>
+<hr />
+Y8.com project : free videos, animation, music, photo and games storage started year 2006.
+
+  <ul id="footer-locales" class="footer-locales">
+    
+<li>
+  <a href="http://en.y8.com/" class="en current-locale">
+    English</a></li>
+
+    
+<li>
+  <a href="http://ru.y8.com/" class="ru locale-link">
+    Руcский</a></li>
+
+<li>
+  <a href="http://fr.y8.com/" class="fr locale-link">
+    Français</a></li>
+
+<li>
+  <a href="http://de.y8.com/" class="de locale-link">
+    Deutsch</a></li>
+
+<li>
+  <a href="http://it.y8.com/" class="it locale-link">
+    Italiano</a></li>
+
+<li>
+  <a href="http://el.y8.com/" class="el locale-link">
+    Ελληνικά</a></li>
+
+<li>
+  <a href="http://he.y8.com/" class="he locale-link">
+    עברית</a></li>
+
+<li>
+  <a href="http://hi.y8.com/" class="hi locale-link">
+    हिंदी</a></li>
+
+<li>
+  <a href="http://ro.y8.com/" class="ro locale-link">
+    Română</a></li>
+
+<li>
+  <a href="http://es.y8.com/" class="es locale-link">
+    Español</a></li>
+
+<li>
+  <a href="http://tl.y8.com/" class="tl locale-link">
+    Tagalog</a></li>
+
+<li>
+  <a href="http://th.y8.com/" class="th locale-link">
+    ไทย</a></li>
+
+<li>
+  <a href="http://zh.y8.com/" class="zh locale-link">
+    中文</a></li>
+
+<li>
+  <a href="http://nl.y8.com/" class="nl locale-link">
+    Nederlands</a></li>
+
+<li>
+  <a href="http://vi.y8.com/" class="vi locale-link">
+    Việt</a></li>
+
+<li>
+  <a href="http://tr.y8.com/" class="tr locale-link">
+    Türkçe</a></li>
+
+<li>
+  <a href="http://pt.y8.com/" class="pt locale-link">
+    Português</a></li>
+
+<li>
+  <a href="http://pl.y8.com/" class="pl locale-link">
+    Polski</a></li>
+
+<li>
+  <a href="http://ko.y8.com/" class="ko locale-link">
+    한국어</a></li>
+
+<li>
+  <a href="http://ja.y8.com/" class="ja locale-link">
+    日本語</a></li>
+
+<li>
+  <a href="http://id.y8.com/" class="id locale-link">
+    Indonesia</a></li>
+
+<li>
+  <a href="http://ar.y8.com/" class="ar locale-link">
+    العربية</a></li>
+
+  </ul>
+
+  <br />
+  <div class="wv-link">Y8.com is powered by <a href="http://www.webventure.hk" target="_blank">Web Venture</a> Incubator.</div>
+
+</div>
+
+                          <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=addy8"></script>
+
+    </div>
+  </body>
+</html>
+
